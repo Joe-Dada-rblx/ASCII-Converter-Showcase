@@ -334,7 +334,7 @@ export default function ImageToASCII() {
         <div className="bg-white/5 backdrop-blur-xl rounded-2xl p-6 border border-white/10 text-center">
           <div className="flex items-center justify-center gap-2 mb-2">
             <Heart className="w-5 h-5 text-red-400 animate-pulse" />
-            <span className="text-white/80 font-medium">Open Source Project by Developer Joe Dada</span>
+            <span className="text-white/80 font-medium">Project by Developer Joe Dada</span>
             <Star className="w-5 h-5 text-yellow-400 animate-pulse" />
           </div>
           <p className="text-white/60 text-sm">
